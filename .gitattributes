@@ -1,2 +1,37 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!Doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Pet Helper</title>
+<rel="icon" 
+</head>
+<boby>
+<body bgcolor=#D2B48C></body>
+<h1><i> Pet Helper</></h1>
+<h3><b>Ser feliz e ter uma companhia canina!</b></h3>
+<br>
+<table border="1">
+<tr>
+<td><b><h4>Acompanhamento<h/4></p><?tr>
+</tr>
+</table>
+<hr>
+<img src="file:///C:/Users/Aluno/Downloads/cacho.jpg"500"
+alt="img" width="300">
+<table borde="1"
+<tr>
+<th>titulo1</th>
+<th>titulo2</th>
+<tr>
+<h5><d><td>Apostila</td></d></h5>
+<h6><e><td>Lista de cachorro</td></e></h6>
+</tr>
+<tr>
+<td>Telefone</td>
+<td>Cão guia</td>
+</tr>
+</table>
+<p></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ABhvlBTOWlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</body>
+</html>
